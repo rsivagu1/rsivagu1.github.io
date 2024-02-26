@@ -1,0 +1,38 @@
+body {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3c8bc3;
+    text-align: justify;
+    font-family: Verdana, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: navy;
+    
+}
+
+a:hover {
+    background-color: #8BC33C;
+}
+
+a:visited {
+    color: purple;
+}
+
+div {
+    text-align: center;
+}
+
+hr {
+    border-style: solid; border-color: #C33C8B; border-width: 2px;
+}
+
+ul {
+    list-style-image:url('flame.png');
+}
